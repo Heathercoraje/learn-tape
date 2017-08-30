@@ -1,3 +1,7 @@
+//first trial, it seems like it starts from there  Heathercoraje
+
+
+
 // get the elements from the DOM
 var inc = document.querySelector('.inc');
 var dec = document.querySelector('.dec');
